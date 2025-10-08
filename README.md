@@ -8,6 +8,7 @@ Users can **register**, **log in**, and chat with a virtual farming assistant th
 
 ## 🗂️ Project Structure
 
+```
 📁 Agriculture Chatbot
 │
 ├── app.py # Main Flask app with routes & authentication
@@ -22,6 +23,7 @@ Users can **register**, **log in**, and chat with a virtual farming assistant th
 │ └── style.css # CSS styling
 │
 └── database.db # SQLite database (auto-created)
+```
 
 
 ---
