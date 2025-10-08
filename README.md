@@ -32,13 +32,15 @@ Users can **register**, **log in**, and chat with a virtual farming assistant th
 
 pip install flask flask_sqlalchemy flask_bcrypt
 
-### 2️⃣ Run the App
+## 2️⃣ Run the App
 
 python app.py
 
-###3️⃣ Open in Browser
+##3️⃣ Open in Browser
 
 👉 http://127.0.0.1:5000/
+
+---
 
 💬 Chatbot Features
 
@@ -48,6 +50,9 @@ Provides general agriculture tips
 
 Simple & clean chat UI
 
+---
+
+
 🔐 Authentication Features
 
 Secure user registration & login
@@ -55,6 +60,8 @@ Secure user registration & login
 Passwords hashed with Flask-Bcrypt
 
 Session management with Flask-Session
+
+---  
 
 🧰 Tech Stack
 
