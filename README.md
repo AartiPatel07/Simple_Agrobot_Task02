@@ -4,27 +4,6 @@
 An AI-powered **Agriculture Chatbot** built using **Flask** with **user authentication**.  
 Users can **register**, **log in**, and chat with a virtual farming assistant that provides advice on **fertilizers**, **pests**, and **weather**.
 
----
-
-## 🗂️ Project Structure
-
-```
-📁 Agriculture Chatbot
-│
-├── app.py # Main Flask app with routes & authentication
-├── chatbot_model.py # Chatbot logic & responses
-│
-├── templates/
-│ ├── login.html # Login page
-│ ├── register.html # Registration page
-│ └── index.html # Chat interface
-│
-├── static/
-│ └── style.css # CSS styling
-│
-└── database.db # SQLite database (auto-created)
-```
-
 
 ---
 
